@@ -6,6 +6,16 @@ This project analyses financial and workforce trends across 20 leading companies
 
 The objective was to benchmark company growth and workforce productivity while also examining the talent and skill challenges emerging from India's transition toward electric vehicles.
 
+## Dashboard Preview
+
+### Financial Overview
+
+![Financial Overview](dashboard-financial-overview.png)
+
+### Workforce Productivity
+
+![Workforce Productivity](dashboard-workforce-productivity.png)
+
 ## What I Analysed
 
 - Revenue CAGR
