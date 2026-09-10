@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project analyses financial and workforce trends across 20 leading companies in the Indian auto-component sector.
+This project analyses financial and workforce trends across 20 leading companies in the Indian auto component sector.
 
 The objective was to benchmark company growth and workforce productivity while also examining the talent and skill challenges emerging from India's transition toward electric vehicles.
 
